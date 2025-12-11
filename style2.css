@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header{
+position: absolute;
+width:100%;
+height: 93px;
+display: flex;
+justify-content: space-around;
+
+background: linear-gradient(88.26deg, #262B2D 64.01%, #B1C2C8 67.25%, #98AEB7 70.77%, #304046 100%);
+}
+
+.a2{
+    position: relative;
+    top:30px;
+    left: 50px;
+    font-size: 20px;
+    color: #98AEB7;
+    border: 2px solid navy;
+    height: 35px;
+     border-radius: 10px;
+    width: 120px;
+    background-color: navy;
+    text-align: center;
+    text-decoration:dashed;
+}
+.a3{
+    position: relative;
+    top:30px;
+    left: 10px;
+    font-size: 20px;
+    color: #98AEB7;
+    border: 2px solid navy;
+    height: 35px;
+     border-radius: 10px;
+    width: 120px;
+    background-color: navy;
+    text-align: center;
+    text-decoration:dashed;
+}
+main{
+    /* Rectangle 1 */
+
+position: relative;
+top:91px;
+width:100%;
+height:2500px;
+
+background: linear-gradient(164.78deg, #2D2626 51.38%, #382F2F 56.57%, #985E3E 59.42%, #5C4738 73.03%);
+ }
+ .logo{
+    position: absolute;
+    left: 0;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+h3{
+    color: #98AEB7;
+}
+.a2:hover{
+border: 3px solid #98AEB7 ;
+
+
+}
+.a3:hover{
+border: 3px solid #98AEB7 ;
+
+
+}
+
+
